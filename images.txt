@@ -4,3 +4,9 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 jellyfin/jellyfin:10.9.7
+jumpserver/jms_all:v3.10.11
+redis:7.2.5
+threatbook/hfish-server:latest
+sagikazarmark/dvwa
+area39/pikachu
+registry.cn-shanghai.aliyuncs.com/suling/openwrt:x86_64
